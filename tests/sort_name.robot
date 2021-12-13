@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       Test Case 1 - Successful User Log In
+Documentation       Test Case 5:8 - Sorting
 Library             SeleniumLibrary
 
 *** Test Cases ***

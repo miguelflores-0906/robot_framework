@@ -8,7 +8,7 @@ ${dog}    /static/media/sl-404.168b1cce.jpg
 
 *** Test Cases ***
 
-Valid Login
+Problem User
     # open browser
     Open Browser    https://www.saucedemo.com/    edge
     # set window size

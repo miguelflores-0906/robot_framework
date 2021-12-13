@@ -4,7 +4,7 @@ Library             SeleniumLibrary
 
 *** Test Cases ***
 
-Valid Login
+Wrong Password
     # open browser
     Open Browser    https://www.saucedemo.com/    edge
     # set window size
